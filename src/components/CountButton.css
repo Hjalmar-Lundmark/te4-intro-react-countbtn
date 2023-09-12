@@ -1,0 +1,7 @@
+.countButton {
+    background-color: lime;
+}
+
+.countButton:hover {
+    background-color: red;
+}
